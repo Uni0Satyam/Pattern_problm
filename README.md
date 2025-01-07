@@ -1,4 +1,4 @@
-# Pattern_problm
+# Pattern_problem
 
 In this repo, I have covered some important questions that will surely help you in building logic.
 
